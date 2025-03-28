@@ -1,4 +1,4 @@
-#Mis gatas
+# Mis gatas
 
 Tengo dos gatas, una toda gorda llamada *Anastasia* y una que es toda malgeniada llamada *Martina*.
 
@@ -8,6 +8,7 @@ Anastasia tiene 3 años pero es más grande y gorda que la gatita más vieja que
 uno la llama y va ahí corriendo. También no me puede ver que voy al baño o cierro la puerta de donde estoy porque empieza a maullar y a pegarle a la puerta
 para que le deje entrar.
 
+![Caos](https://photos.app.goo.gl/msNspJHSKXoo45g39)
 
 ## Martina
 
@@ -15,6 +16,7 @@ Martina tiene 7 años, le encanta comerse mis plantas, no le gusta que le toquen
 empieza a respirar super rápido y profundo, aunque conmigo es muy consentida y no es malgeniada, es sólo con las otras personas y con Anastasia cuando
 la molesta mucho.
 
+![Caos](https://photos.app.goo.gl/msNspJHSKXoo45g39)
 
 ## Peso de las gatas
 
