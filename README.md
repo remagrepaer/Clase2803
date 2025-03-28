@@ -1,4 +1,3 @@
-# Readme
 #Mis gatas
 
 Tengo dos gatas, una toda gorda llamada *Anastasia* y una que es toda malgeniada llamada *Martina*.
