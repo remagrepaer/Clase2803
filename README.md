@@ -33,7 +33,9 @@ Martina | 3.5
 
 ## Código:
 
-```nano README.md
+```
+nano README.md
 git add README.md
 git commit -m "texto de mis gatas :3"
-git push origin main```
+git push origin main
+```
