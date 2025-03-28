@@ -30,3 +30,10 @@ Martina | 3.5
 [Anastasia (Tabby point)](https://es.wikipedia.org/wiki/Siam%C3%A9s_Tabby_Point)
 
 [Martina (Tuxedo)](https://en-m-wikipedia-org.translate.goog/wiki/Bicolor_cat?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+
+## Código:
+
+```nano README.md
+git add README.md
+git commit -m "texto de mis gatas :3"
+git push origin main```
